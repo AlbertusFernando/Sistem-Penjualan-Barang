@@ -9,4 +9,5 @@ Sebuah toko membutuhkan sistem untuk mencatat seluruh transaksi yang terjadi gun
 # Fitur
 
 # Diagram Alir
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/48c565d0-ce04-4182-8a9d-8ea461b2ecab)
 
