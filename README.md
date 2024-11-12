@@ -8,13 +8,11 @@ Untuk mengembangkan sistem pencatatan transaksi yang efektif dan efisien bagi to
 
 # Fitur
 fitur utama yang mengelola proses transaksi penjualan mencakup:
-1. Input Nama Barang dan Jumlah
-2. Validasi Stok
-3. Perhitungan Total Harga
-4. Penambahan ke Daftar Pembelian
-5. Pembayaran Akhir dan Total Belanja
-6. Pembaharuan Stok dan Penyimpanan ke File
-
+1. Tambah Barang
+2. Tampilkan Barang
+3. Transaksi Penjualan
+4. Keluar
+   
 # Diagram Alir
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/48c565d0-ce04-4182-8a9d-8ea461b2ecab)
 
