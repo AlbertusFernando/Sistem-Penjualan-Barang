@@ -14,7 +14,4 @@ fitur utama yang mengelola proses transaksi penjualan mencakup:
 4. Keluar
    
 # Diagram Alir
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/48c565d0-ce04-4182-8a9d-8ea461b2ecab)
-
-Revisi 1
 ![Sistem pembelian barang drawio](https://github.com/user-attachments/assets/2b365d83-1067-4091-9ee1-8032b08eb2af)
