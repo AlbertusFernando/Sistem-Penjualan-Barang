@@ -17,7 +17,7 @@ else:
     admin_data.to_excel(admin_file_path, index=False)
     admin_credentials = {}
 
-# Membuat file barang dan riwayat jika belum ada
+# Membuat file barang dan riwayat 
 if not os.path.exists(file_path):
     pd.DataFrame(columns=['Nama Barang', 'Harga', 'Stok']).to_excel(file_path, index=False)
 if not os.path.exists(riwayat_file_path):
@@ -265,7 +265,7 @@ def login():
 
     # Memuat background
     try:
-        bg_image = PhotoImage(file="d:\\projecta\\background 1.png")  # Ubah sesuai path file gambar
+        bg_image = PhotoImage(file="d:\\projecta\\background 1.png")  
         canvas = Canvas(main_window, width=600, height=400)
         canvas.pack(fill="both", expand=True)
         canvas.create_image(0, 0, image=bg_image, anchor="nw")
