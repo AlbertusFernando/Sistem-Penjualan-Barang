@@ -215,7 +215,7 @@ def menu_utama():
 
     # Memuat background
     try:
-        bg_image = PhotoImage(file="d:\\projecta\\background 2.png")  # Ubah sesuai path file gambar
+        bg_image = PhotoImage(file="d:\\projecta\\background 2.png")
         canvas = Canvas(window, width=600, height=400)
         canvas.pack(fill="both", expand=True)
         canvas.create_image(0, 0, image=bg_image, anchor="nw")
