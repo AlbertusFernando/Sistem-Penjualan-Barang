@@ -8,12 +8,13 @@ Untuk mengembangkan sistem pencatatan transaksi yang efektif dan efisien bagi to
 
 # Fitur
 fitur utama yang mengelola proses transaksi penjualan mencakup:
-1. Daftar Barang
-2. Tambah Barang
-3. Tambah Stok
-4. Transaksi Penjualan
-5. Riwayat Transaksi
-6. Keluar
+1. Login Admin
+2. Daftar Barang
+3. Tambah Barang
+4. Tambah Stok
+5. Transaksi Penjualan
+6. Riwayat Transaksi
+7. Keluar
 
 # Sitemap
 ![sitemape (1)](https://github.com/user-attachments/assets/ca99cef4-905e-4be3-8a2b-62143590875f)
