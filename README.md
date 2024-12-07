@@ -17,7 +17,8 @@ fitur utama yang mengelola proses transaksi penjualan mencakup:
 7. Keluar
 
 # Sitemap
-![sitemape (1)](https://github.com/user-attachments/assets/ca99cef4-905e-4be3-8a2b-62143590875f)
+![Sitemap drawio](https://github.com/user-attachments/assets/c22dc312-4d3c-413e-b88d-7cbe6eca52bb)
+
 
 # Diagram Alir
 ![Sistem pembelian barang drawio](https://github.com/user-attachments/assets/2b365d83-1067-4091-9ee1-8032b08eb2af)
