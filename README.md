@@ -16,9 +16,17 @@ fitur utama yang mengelola proses transaksi penjualan mencakup:
 6. Riwayat Transaksi
 7. Keluar
 
+# Library
+1.	Os: untuk memeriksa keberadaan file dan direktori.
+2.	Pandas: untuk membaca, mengolah, dan menyimpan data dalam format Excel.
+3.	Tkinter: untuk membuat antarmuka pengguna grafis (GUI).
+    Bagian dari modul tkinter yaitu Tk, Canvas, messagebox, ttk, PhotoImage yang digunakan untuk berbagai elemen GUI dan datetime untuk menangani data dan waktu.
+4.	PIL (Python Imaging Library): digunakan melalui modul Image dan ImageTk untuk memanipulasi gambar (bagian dari library Pillow).
+
 # Sitemap
 ![Sitemap drawio](https://github.com/user-attachments/assets/c22dc312-4d3c-413e-b88d-7cbe6eca52bb)
 
 
 # Diagram Alir
-![Sistem pembelian barang drawio](https://github.com/user-attachments/assets/2b365d83-1067-4091-9ee1-8032b08eb2af)
+![Final flowchart drawio](https://github.com/user-attachments/assets/35652cde-b4ec-459d-9a5e-5fbd265a1248)
+
