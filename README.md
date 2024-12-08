@@ -28,5 +28,8 @@ fitur utama yang mengelola proses transaksi penjualan mencakup:
 
 
 # Diagram Alir
+![Flowchart part sekian](https://github.com/user-attachments/assets/a1e382ea-7dc0-4614-9fea-8bc582d9745e)
+
+Flowchart Revisi
 ![Final flowchart drawio](https://github.com/user-attachments/assets/35652cde-b4ec-459d-9a5e-5fbd265a1248)
 
