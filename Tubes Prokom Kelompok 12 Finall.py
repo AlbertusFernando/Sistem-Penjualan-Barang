@@ -34,7 +34,7 @@ def simpan_riwayat():
     riwayat_data.to_excel(riwayat_file_path, index=False)
 
 # Fungsi validasi login
-def validate_login():
+
     username = username_var.get().strip()  # Menghilangkan spasi yang tidak terlihat
     password = password_var.get().strip()  # Menghilangkan spasi yang tidak terlihat
 
