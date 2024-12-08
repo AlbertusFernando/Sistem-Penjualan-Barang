@@ -6,7 +6,7 @@ from datetime import datetime
 from tkinter import ttk
 from tkinter import PhotoImage
 from PIL import Image, ImageTk
-from database_modul import *
+from database import *
 
 # Fungsi validasi login
 def validate_login():
