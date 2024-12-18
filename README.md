@@ -8,7 +8,7 @@ Untuk mengembangkan sistem pencatatan transaksi yang efektif dan efisien bagi to
 
 # Fitur
 fitur utama yang mengelola proses transaksi penjualan mencakup:
-1. Login Admin
+1. Login dan Sign Up Admin
 2. Daftar Barang
 3. Tambah Barang
 4. Tambah Stok
