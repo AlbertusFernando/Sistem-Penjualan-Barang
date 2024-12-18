@@ -35,6 +35,6 @@ Flowchart Revisi
 ![Final flowchart drawio](https://github.com/user-attachments/assets/35652cde-b4ec-459d-9a5e-5fbd265a1248)
 
 Flowchart Revisi 2
-![Revisi flowchart](https://github.com/user-attachments/assets/598633f6-6189-4ae3-8e89-fd6910154223)
+![Revisi flowchart](https://github.com/user-attachments/assets/ca7f9a4a-85d3-49d0-896e-8258a8bc423b)
 
 
